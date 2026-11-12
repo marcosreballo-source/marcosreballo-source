@@ -26,4 +26,4 @@ Estudante de Sistemas de Informação no **ICMC/USP**, com experiência em **P&D
 
 **Stack:** Python · PyTorch · PennyLane/Qiskit · OR-Tools · NetworkX/OSMnx · AWS SageMaker · MLflow · Slurm/Apptainer · Streamlit · LLM agents
 
-[ORCID](https://orcid.org/0009-0003-6396-9302) · [LinkedIn](https://www.linkedin.com/in/marcos-reballo/)
+[ORCID](https://orcid.org/0009-0003-6396-9302) · [LinkedIn](https://www.linkedin.com/in/marcos-vinicius-reballo/)
